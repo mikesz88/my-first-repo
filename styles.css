@@ -5,12 +5,6 @@ body {
   font-family: sans-serif, Helvetica, Arial;
 }
 
-/* h2 {
-  text-align: justify;
-  color: green;
-  margin-top: 50px;
-} */
-
 .app-body {
   text-align: center;
   background-color: #282c34;
@@ -77,9 +71,6 @@ h2, h3 {
 
 ul {
   display: flex;
-/*   justify-content: center;
-  align-items: center;
-  height: 100vh; */
   margin: 0;
   padding: 0; 
 }
